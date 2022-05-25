@@ -1,4 +1,7 @@
-from unicodedata import name
+'''
+    Registers any URLs defined there
+'''
+
 from django import path
 from hello_world import views
 

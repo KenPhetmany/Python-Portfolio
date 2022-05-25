@@ -1,5 +1,7 @@
-from email.mime import image
-from pyexpat import model
+'''
+    Classes that represent database tables
+'''
+
 from django.db import models
 
 

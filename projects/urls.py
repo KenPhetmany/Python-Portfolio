@@ -1,3 +1,6 @@
+'''
+    Registers any URLs defined there
+'''
 from django.urls import path
 from . import views
 

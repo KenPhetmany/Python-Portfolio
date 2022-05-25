@@ -1,3 +1,6 @@
+'''
+    Classes that represent database tables
+'''
 from django.db import models
 
 
